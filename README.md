@@ -1,2 +1,0 @@
-# react-projects
-react practice
